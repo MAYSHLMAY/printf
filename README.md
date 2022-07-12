@@ -13,5 +13,5 @@
 
 ### Authors &copy;
 
-- Mikiyas Dawit
-- Hizkeal Yeshitila
+- Mikiyas Dawit(MAYSHLMAY)
+- Hizkeal Yeshitila(HIZKEAL)
