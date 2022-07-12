@@ -66,7 +66,3 @@ int _switch(char c, va_list arg)
 	}
 	return (cont);
 }
-
-
-
-// MAYSHLMAY/printf.git
